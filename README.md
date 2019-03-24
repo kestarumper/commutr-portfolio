@@ -1,4 +1,10 @@
 # Commutr - railway schedule
+## Technology stack
+* React Native
+* Redux Saga
+* Native Base
+
+## Screenshots
 <img src="Screenshot_20190228-101424_Schedule.jpg" width="40%">
 <img src="Screenshot_20190228-101437_Schedule.jpg" width="40%">
 <img src="Screenshot_20190228-101449_Schedule.jpg" width="40%">
